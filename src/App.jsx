@@ -5,9 +5,9 @@ import { Container } from 'react-bootstrap';
 
 import NavBar from './components/NavBar';
 import About from './components/About';
-import Resume from './components/Resume'
+import Resume from './components/Resume';
 
-//import Page from './components/Page';
+// import Page from './components/Page';
 
 const Layout = () => (
   <div>
@@ -22,7 +22,7 @@ const Layout = () => (
       </Container>
     </body>
   </div>
-)
+);
 
 function App() {
   return (
